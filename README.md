@@ -1,10 +1,10 @@
 # Way to Cross
 
 ![Way to Cross Banner](https://img.itch.zone/aW1nLzE1NjEyNjcucG5n/original/tEqTvd.png)  
-*A challenging game of strategy and precision!*
+*A simple game to find the right path and win!*
 
 ## 📖 About the Game
-**Way to Cross** is an exciting and skill-based game that challenges players to navigate a series of obstacles and hazards to reach the goal. Your reflexes and planning will be put to the test in this engaging and rewarding experience.
+**Way to Cross** is a simple game created as a way to challenge myself and see how quickly I can learn to use the Unity Game Engine, made for a game jam.
 
 ## 🎮 Features
 ✅ Simple gameplay yet difficult with its increasing difficulty  
@@ -28,7 +28,7 @@ If you encounter any issues or have suggestions, feel free to reach out!
 💬 Comment on the Itch.io page
 
 ## 🎨 Credits
-Developed by **Popa Cristian**  
+Programmed by **Me**  
 Graphics & Design: **[BUCH](https://opengameart.org/content/the-field-of-the-floating-islands)**  
 
 ---
